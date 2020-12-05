@@ -93,7 +93,7 @@ namespace WSFinal.Controllers
             if (id < 0)
                 return "Error";
             if (id == 0)
-                return "Realizado por Enrique";
+                return "Realizado por Enrique Núñez";
             return "Usted ingreso el numero " + id;
         }
         // DELETE: api/Finals/5
